@@ -12,7 +12,9 @@ $ npm install
 // add your npm installs required
 
 Next, install all of the server dependencies in package.json file:
+
 $ npm install express --save
+
 $ npm install mongoose
 
 similary install the other dependencies as well.
