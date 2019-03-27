@@ -5,8 +5,10 @@ Install all dependencies in package.json file. This can be done by navigating to
 
 $ npm install
 
-$ cd Flight-Booking/
+$ cd Flight-Booking/ 
+
 $ npm install
+
 // add your npm installs required
 
 Next, install all of the server dependencies in package.json file:
